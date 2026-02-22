@@ -29,3 +29,7 @@ Go to the top menu bar → Tools
 Click GDD Document
 
 The GDD window will open for editing and management
+
+![Unity_Editor_Simple_GDD](https://raw.githubusercontent.com/HabibSAID/Unity_Editor_Simple_GDD/6365e37a4fe54da164e5ac80f392ef8307d0d401/GDD.png)
+
+![Unity_Editor_Simple_GDD](https://raw.githubusercontent.com/HabibSAID/Unity_Editor_Simple_GDD/6365e37a4fe54da164e5ac80f392ef8307d0d401/GDDtools.png)
